@@ -1,0 +1,6 @@
+{
+  "name": "Sora — мастерская карт",
+  "description": "Конструктор и редактор карт предметов и способностей для настольной ролевой игры Sora",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
